@@ -4,7 +4,3 @@ def using_times
     puts "Wingardiun Leviosa"
   end
 end
-
-
-
-
